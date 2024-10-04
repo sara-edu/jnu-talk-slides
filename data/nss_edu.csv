@@ -1,0 +1,501 @@
+Household_ID,Individual_ID,Age,Gender,Education_Level,Employment_Status,Monthly_Income,Sector_of_Employment,State,Rural/Urban,Years_of_Experience
+151,4,26,Male,Primary,Casual Laborer,20000,Agriculture,Gujarat,Rural,26
+192,2,28,Female,Primary,Unemployed,5000,Agriculture,Delhi,Rural,0
+114,3,32,Female,Higher Secondary,Casual Laborer,20000,None,Delhi,Urban,28
+171,5,41,Female,Illiterate,Student,5000,None,Maharashtra,Rural,0
+160,1,55,Female,Secondary,Student,20000,None,Tamil Nadu,Rural,0
+120,5,52,Male,Graduate,Student,10000,Agriculture,Gujarat,Urban,0
+182,4,47,Male,Secondary,Employed,30000,IT,Bihar,Urban,23
+186,5,48,Female,Secondary,Unemployed,5000,Agriculture,Gujarat,Urban,0
+174,1,22,Female,Post-Graduate,Employed,20000,Construction,Maharashtra,Rural,33
+174,4,61,Female,Illiterate,Casual Laborer,35000,Manufacturing,Delhi,Rural,5
+187,5,31,Male,Post-Graduate,Employed,0,None,Uttar Pradesh,Rural,34
+199,4,28,Male,Illiterate,Casual Laborer,10000,IT,West Bengal,Urban,11
+123,2,26,Male,Illiterate,Casual Laborer,10000,Education,Maharashtra,Rural,3
+102,2,51,Male,Primary,Self-Employed,0,Education,Gujarat,Urban,33
+121,5,29,Female,Higher Secondary,Student,20000,Manufacturing,Uttar Pradesh,Rural,0
+152,4,52,Female,Primary,Casual Laborer,35000,IT,West Bengal,Urban,16
+101,1,52,Female,Higher Secondary,Self-Employed,15000,Agriculture,Karnataka,Rural,18
+187,5,18,Male,Post-Graduate,Student,0,Agriculture,Maharashtra,Rural,0
+129,2,57,Male,Higher Secondary,Casual Laborer,20000,Construction,Maharashtra,Rural,10
+137,2,39,Male,Post-Graduate,Casual Laborer,0,Construction,Karnataka,Urban,18
+101,5,46,Female,Secondary,Employed,0,Agriculture,Karnataka,Urban,38
+163,4,25,Female,Secondary,Employed,5000,Education,Maharashtra,Rural,19
+159,2,28,Male,Higher Secondary,Student,20000,None,Karnataka,Rural,0
+120,4,58,Female,Higher Secondary,Casual Laborer,15000,Education,Bihar,Rural,13
+132,2,54,Male,Post-Graduate,Unemployed,30000,Construction,West Bengal,Urban,0
+175,2,31,Male,Primary,Employed,5000,Manufacturing,West Bengal,Rural,10
+157,3,47,Female,Post-Graduate,Student,0,Agriculture,West Bengal,Rural,0
+121,2,52,Male,Primary,Casual Laborer,30000,Construction,Bihar,Rural,1
+188,1,38,Female,Secondary,Casual Laborer,25000,Construction,Tamil Nadu,Rural,27
+148,5,54,Male,Illiterate,Unemployed,30000,None,Karnataka,Urban,0
+190,5,22,Female,Higher Secondary,Student,0,Agriculture,Uttar Pradesh,Urban,0
+158,4,36,Female,Primary,Casual Laborer,0,None,Karnataka,Rural,9
+141,2,31,Female,Post-Graduate,Employed,35000,Agriculture,Maharashtra,Rural,6
+191,1,43,Male,Secondary,Unemployed,20000,None,Delhi,Urban,0
+159,4,21,Male,Primary,Student,20000,Education,Gujarat,Urban,0
+179,3,42,Female,Post-Graduate,Unemployed,5000,Manufacturing,Gujarat,Rural,0
+114,4,62,Female,Higher Secondary,Employed,15000,Manufacturing,West Bengal,Urban,33
+161,4,59,Male,Higher Secondary,Student,5000,Agriculture,Karnataka,Urban,0
+161,2,42,Male,Graduate,Unemployed,10000,IT,Uttar Pradesh,Rural,0
+146,3,35,Male,Illiterate,Self-Employed,0,Construction,Maharashtra,Urban,18
+161,4,57,Female,Graduate,Employed,30000,Construction,Bihar,Urban,21
+150,1,25,Male,Secondary,Employed,25000,Agriculture,Tamil Nadu,Rural,2
+154,1,56,Male,Primary,Employed,0,None,Bihar,Rural,38
+163,5,57,Female,Secondary,Self-Employed,0,IT,Uttar Pradesh,Urban,36
+102,3,31,Male,Post-Graduate,Self-Employed,5000,Education,Maharashtra,Rural,37
+150,3,49,Male,Higher Secondary,Casual Laborer,25000,None,West Bengal,Urban,15
+106,5,55,Male,Graduate,Unemployed,25000,None,Karnataka,Rural,0
+120,4,50,Female,Graduate,Casual Laborer,25000,Agriculture,Maharashtra,Urban,18
+172,3,40,Female,Graduate,Unemployed,5000,Agriculture,Gujarat,Rural,0
+138,1,32,Female,Secondary,Self-Employed,0,Construction,Tamil Nadu,Urban,22
+117,1,50,Female,Higher Secondary,Self-Employed,5000,Agriculture,Bihar,Urban,11
+103,2,42,Female,Primary,Casual Laborer,20000,Agriculture,Tamil Nadu,Urban,13
+188,3,34,Female,Post-Graduate,Student,20000,Agriculture,Tamil Nadu,Rural,0
+159,4,50,Female,Primary,Casual Laborer,5000,Construction,Uttar Pradesh,Rural,22
+113,5,64,Male,Secondary,Unemployed,25000,Education,Uttar Pradesh,Urban,0
+108,5,19,Male,Post-Graduate,Casual Laborer,35000,Education,Karnataka,Urban,24
+189,4,31,Female,Graduate,Employed,0,Agriculture,Uttar Pradesh,Rural,4
+152,2,57,Male,Illiterate,Unemployed,5000,Construction,Uttar Pradesh,Rural,0
+101,5,57,Male,Secondary,Unemployed,5000,Education,Maharashtra,Rural,0
+183,3,56,Female,Secondary,Student,5000,None,Gujarat,Rural,0
+191,2,23,Male,Higher Secondary,Self-Employed,35000,Education,West Bengal,Rural,3
+159,3,23,Male,Primary,Unemployed,35000,Education,Karnataka,Rural,0
+170,1,20,Male,Secondary,Self-Employed,10000,Construction,Maharashtra,Urban,38
+143,2,24,Male,Secondary,Casual Laborer,20000,None,West Bengal,Rural,1
+107,5,25,Male,Graduate,Employed,30000,Construction,Tamil Nadu,Urban,38
+146,2,59,Female,Graduate,Student,25000,Agriculture,Maharashtra,Rural,0
+134,2,32,Female,Post-Graduate,Self-Employed,15000,Manufacturing,Delhi,Rural,21
+177,2,64,Female,Illiterate,Unemployed,35000,Education,Maharashtra,Urban,0
+180,2,46,Male,Higher Secondary,Self-Employed,30000,Manufacturing,Uttar Pradesh,Urban,5
+135,3,50,Female,Illiterate,Unemployed,35000,Construction,West Bengal,Rural,0
+149,1,47,Male,Post-Graduate,Self-Employed,25000,Construction,Karnataka,Urban,28
+103,4,56,Male,Graduate,Unemployed,15000,Construction,Karnataka,Urban,0
+101,2,44,Male,Primary,Casual Laborer,10000,Manufacturing,West Bengal,Urban,7
+105,5,53,Male,Graduate,Unemployed,5000,Construction,Uttar Pradesh,Urban,0
+153,2,46,Female,Higher Secondary,Unemployed,10000,Agriculture,Bihar,Rural,0
+103,5,55,Female,Graduate,Employed,35000,Construction,Maharashtra,Urban,19
+153,3,50,Male,Higher Secondary,Unemployed,10000,IT,Uttar Pradesh,Rural,0
+192,5,54,Female,Higher Secondary,Employed,30000,Manufacturing,Delhi,Rural,4
+162,4,44,Male,Higher Secondary,Student,0,IT,Gujarat,Rural,0
+117,1,50,Female,Post-Graduate,Employed,35000,Construction,Tamil Nadu,Rural,1
+189,5,21,Female,Higher Secondary,Casual Laborer,35000,Agriculture,West Bengal,Urban,4
+143,5,39,Male,Higher Secondary,Employed,30000,Education,Gujarat,Urban,12
+133,1,19,Female,Primary,Student,20000,None,Maharashtra,Rural,0
+173,4,27,Male,Illiterate,Casual Laborer,15000,None,Karnataka,Rural,23
+161,2,22,Female,Secondary,Self-Employed,5000,Construction,Tamil Nadu,Rural,25
+199,5,27,Male,Illiterate,Self-Employed,30000,Agriculture,Gujarat,Rural,21
+113,1,50,Male,Higher Secondary,Employed,15000,Manufacturing,Bihar,Urban,24
+194,3,55,Female,Primary,Employed,25000,IT,Gujarat,Rural,25
+147,1,30,Female,Graduate,Student,15000,IT,Delhi,Urban,0
+114,3,48,Male,Primary,Student,25000,IT,Karnataka,Rural,0
+171,4,64,Female,Higher Secondary,Unemployed,30000,Manufacturing,West Bengal,Rural,0
+177,2,53,Female,Primary,Student,35000,None,Maharashtra,Rural,0
+186,1,62,Male,Primary,Unemployed,35000,Agriculture,West Bengal,Rural,0
+161,5,41,Male,Higher Secondary,Casual Laborer,20000,Manufacturing,Tamil Nadu,Urban,16
+139,4,32,Female,Post-Graduate,Employed,30000,IT,Maharashtra,Urban,33
+184,1,46,Male,Primary,Casual Laborer,25000,Construction,Uttar Pradesh,Urban,21
+179,5,25,Male,Secondary,Student,15000,Education,Bihar,Rural,0
+181,1,22,Male,Secondary,Casual Laborer,15000,Manufacturing,Uttar Pradesh,Rural,6
+152,3,46,Female,Primary,Casual Laborer,25000,Manufacturing,Uttar Pradesh,Urban,35
+123,1,64,Female,Post-Graduate,Casual Laborer,10000,Agriculture,West Bengal,Urban,39
+125,1,21,Male,Graduate,Student,20000,Agriculture,Tamil Nadu,Rural,0
+188,1,29,Female,Higher Secondary,Casual Laborer,0,Manufacturing,Bihar,Rural,5
+159,4,62,Male,Secondary,Unemployed,35000,IT,Gujarat,Urban,0
+140,1,19,Female,Graduate,Student,5000,Education,Maharashtra,Rural,0
+128,5,44,Male,Primary,Casual Laborer,15000,Agriculture,Maharashtra,Rural,12
+114,3,48,Male,Graduate,Student,5000,IT,Delhi,Urban,0
+144,3,53,Female,Illiterate,Self-Employed,0,Construction,Karnataka,Rural,16
+164,1,53,Male,Secondary,Unemployed,30000,Agriculture,Delhi,Urban,0
+188,4,43,Female,Primary,Casual Laborer,5000,IT,Gujarat,Rural,30
+170,4,60,Female,Higher Secondary,Self-Employed,0,IT,Delhi,Urban,22
+108,5,44,Male,Post-Graduate,Self-Employed,35000,Education,Maharashtra,Rural,9
+187,1,22,Male,Primary,Student,25000,Education,West Bengal,Urban,0
+100,3,37,Female,Higher Secondary,Self-Employed,10000,Construction,Uttar Pradesh,Urban,37
+107,4,28,Male,Post-Graduate,Unemployed,35000,IT,Tamil Nadu,Urban,0
+187,1,27,Male,Post-Graduate,Unemployed,15000,None,Uttar Pradesh,Urban,0
+162,4,57,Male,Primary,Employed,0,IT,Uttar Pradesh,Rural,32
+110,4,55,Male,Graduate,Unemployed,5000,Education,Bihar,Rural,0
+180,3,23,Male,Graduate,Self-Employed,15000,None,Maharashtra,Urban,17
+107,2,25,Female,Post-Graduate,Unemployed,10000,Agriculture,Gujarat,Rural,0
+134,5,40,Female,Graduate,Student,25000,Agriculture,Gujarat,Rural,0
+134,5,64,Male,Illiterate,Employed,30000,Manufacturing,Tamil Nadu,Rural,37
+132,3,43,Male,Post-Graduate,Self-Employed,15000,Education,West Bengal,Rural,6
+104,4,63,Male,Post-Graduate,Employed,30000,Manufacturing,Bihar,Rural,18
+140,1,60,Female,Higher Secondary,Self-Employed,0,None,Karnataka,Urban,30
+127,4,29,Male,Graduate,Student,10000,Education,West Bengal,Urban,0
+106,3,43,Female,Post-Graduate,Employed,5000,Construction,Delhi,Urban,33
+172,5,30,Female,Illiterate,Casual Laborer,10000,IT,West Bengal,Urban,30
+171,4,57,Female,Higher Secondary,Self-Employed,10000,Construction,West Bengal,Rural,17
+111,5,35,Male,Primary,Casual Laborer,20000,None,Uttar Pradesh,Rural,32
+133,1,42,Female,Post-Graduate,Employed,10000,Education,West Bengal,Urban,14
+132,5,50,Male,Illiterate,Casual Laborer,10000,None,Gujarat,Rural,10
+147,5,64,Female,Secondary,Casual Laborer,35000,IT,Delhi,Rural,36
+122,2,57,Male,Illiterate,Employed,15000,Agriculture,Delhi,Urban,34
+161,2,60,Female,Illiterate,Student,5000,Agriculture,Maharashtra,Rural,0
+187,2,29,Male,Higher Secondary,Casual Laborer,35000,None,West Bengal,Urban,28
+136,5,61,Female,Primary,Casual Laborer,35000,Manufacturing,Uttar Pradesh,Urban,11
+198,3,53,Male,Secondary,Student,15000,Education,West Bengal,Rural,0
+143,5,21,Male,Graduate,Casual Laborer,15000,Education,Karnataka,Rural,39
+185,3,22,Male,Graduate,Casual Laborer,0,Agriculture,Karnataka,Urban,19
+190,3,54,Male,Illiterate,Casual Laborer,15000,Construction,Uttar Pradesh,Urban,15
+134,2,25,Female,Higher Secondary,Unemployed,20000,IT,Maharashtra,Rural,0
+164,4,59,Female,Higher Secondary,Student,20000,Construction,Maharashtra,Urban,0
+198,1,45,Male,Graduate,Casual Laborer,35000,Construction,Delhi,Urban,8
+146,2,48,Female,Secondary,Student,30000,None,Delhi,Urban,0
+177,2,26,Male,Primary,Self-Employed,0,Agriculture,Bihar,Rural,33
+102,4,46,Male,Secondary,Self-Employed,30000,Agriculture,Uttar Pradesh,Urban,33
+100,1,31,Female,Post-Graduate,Casual Laborer,30000,Agriculture,West Bengal,Rural,19
+104,5,57,Male,Post-Graduate,Student,35000,None,Tamil Nadu,Urban,0
+189,5,58,Male,Primary,Student,25000,Manufacturing,Uttar Pradesh,Rural,0
+113,2,39,Female,Graduate,Student,35000,Construction,Bihar,Urban,0
+126,1,28,Male,Primary,Unemployed,5000,None,Delhi,Rural,0
+108,2,40,Male,Higher Secondary,Self-Employed,5000,Education,Uttar Pradesh,Rural,34
+178,3,18,Male,Post-Graduate,Student,15000,IT,Uttar Pradesh,Rural,0
+114,2,63,Male,Illiterate,Student,15000,Manufacturing,Delhi,Urban,0
+189,2,54,Female,Illiterate,Unemployed,25000,Education,Gujarat,Urban,0
+141,5,38,Female,Graduate,Unemployed,15000,Construction,Bihar,Urban,0
+176,5,43,Female,Higher Secondary,Student,5000,Agriculture,Delhi,Rural,0
+150,5,63,Male,Secondary,Employed,30000,Construction,Maharashtra,Urban,29
+162,3,53,Male,Higher Secondary,Student,35000,None,West Bengal,Rural,0
+195,5,40,Female,Illiterate,Student,10000,IT,Delhi,Urban,0
+151,1,18,Male,Illiterate,Unemployed,20000,None,Bihar,Rural,0
+195,4,57,Male,Post-Graduate,Unemployed,10000,Manufacturing,Karnataka,Rural,0
+103,1,32,Male,Higher Secondary,Student,10000,Manufacturing,Maharashtra,Rural,0
+193,1,38,Male,Higher Secondary,Student,5000,IT,Karnataka,Urban,0
+122,5,64,Female,Illiterate,Student,10000,Education,Tamil Nadu,Urban,0
+114,4,26,Female,Secondary,Unemployed,35000,Education,Delhi,Urban,0
+142,4,26,Female,Graduate,Student,25000,Manufacturing,Maharashtra,Rural,0
+128,4,27,Male,Graduate,Student,0,Manufacturing,West Bengal,Rural,0
+135,3,43,Female,Higher Secondary,Casual Laborer,15000,Agriculture,Delhi,Urban,39
+112,5,58,Female,Graduate,Employed,0,Education,West Bengal,Urban,1
+131,4,52,Male,Illiterate,Self-Employed,30000,IT,Gujarat,Urban,17
+170,3,42,Male,Illiterate,Employed,35000,Education,Uttar Pradesh,Rural,25
+158,2,43,Female,Higher Secondary,Casual Laborer,35000,Agriculture,Karnataka,Rural,3
+185,2,28,Female,Higher Secondary,Self-Employed,20000,None,Maharashtra,Rural,15
+127,3,55,Female,Post-Graduate,Student,35000,Manufacturing,West Bengal,Rural,0
+165,3,19,Female,Higher Secondary,Casual Laborer,15000,Manufacturing,Bihar,Rural,32
+141,5,24,Male,Secondary,Student,35000,Agriculture,West Bengal,Urban,0
+144,5,35,Female,Graduate,Unemployed,10000,IT,Bihar,Rural,0
+161,2,44,Female,Higher Secondary,Casual Laborer,20000,Manufacturing,Delhi,Rural,25
+156,4,51,Male,Primary,Unemployed,15000,Construction,Maharashtra,Rural,0
+105,2,44,Female,Post-Graduate,Casual Laborer,25000,Manufacturing,West Bengal,Rural,9
+127,4,34,Male,Primary,Casual Laborer,25000,Construction,Tamil Nadu,Rural,1
+127,4,60,Male,Illiterate,Unemployed,25000,Agriculture,West Bengal,Urban,0
+143,5,61,Male,Graduate,Self-Employed,25000,Agriculture,Gujarat,Rural,22
+183,1,41,Female,Higher Secondary,Employed,10000,Manufacturing,Tamil Nadu,Rural,16
+129,1,42,Female,Primary,Student,35000,Education,Maharashtra,Rural,0
+161,3,24,Male,Graduate,Casual Laborer,0,Construction,Gujarat,Urban,14
+174,5,23,Female,Illiterate,Student,15000,IT,West Bengal,Urban,0
+191,4,41,Female,Secondary,Unemployed,10000,Manufacturing,Bihar,Urban,0
+188,1,50,Male,Post-Graduate,Student,25000,IT,West Bengal,Rural,0
+161,4,46,Male,Graduate,Unemployed,30000,Manufacturing,Karnataka,Urban,0
+196,1,60,Female,Graduate,Student,35000,Education,Delhi,Rural,0
+100,1,39,Male,Secondary,Employed,0,Education,Uttar Pradesh,Rural,3
+126,1,43,Female,Graduate,Employed,30000,Education,Bihar,Urban,11
+161,5,45,Female,Illiterate,Employed,20000,None,Karnataka,Rural,30
+176,2,38,Female,Illiterate,Employed,30000,Education,Tamil Nadu,Rural,18
+102,4,24,Female,Secondary,Employed,20000,Agriculture,Delhi,Rural,2
+169,5,34,Male,Post-Graduate,Employed,20000,Agriculture,Maharashtra,Urban,32
+171,5,37,Male,Higher Secondary,Unemployed,25000,None,Bihar,Rural,0
+126,5,58,Male,Primary,Casual Laborer,20000,Construction,Uttar Pradesh,Rural,22
+108,5,37,Male,Higher Secondary,Student,5000,IT,Delhi,Urban,0
+161,5,39,Female,Graduate,Employed,15000,Manufacturing,Tamil Nadu,Rural,12
+136,3,45,Female,Primary,Unemployed,15000,Manufacturing,Gujarat,Rural,0
+196,4,57,Male,Secondary,Unemployed,25000,None,Gujarat,Urban,0
+150,5,24,Female,Secondary,Unemployed,5000,Agriculture,Uttar Pradesh,Rural,0
+143,4,18,Female,Post-Graduate,Casual Laborer,30000,Manufacturing,Maharashtra,Rural,18
+123,3,49,Female,Primary,Student,10000,Agriculture,Maharashtra,Rural,0
+178,3,30,Male,Illiterate,Casual Laborer,30000,Construction,Tamil Nadu,Rural,13
+158,4,47,Male,Primary,Self-Employed,35000,IT,Bihar,Rural,15
+131,1,40,Male,Graduate,Unemployed,10000,Construction,Tamil Nadu,Urban,0
+195,2,36,Female,Illiterate,Self-Employed,20000,None,West Bengal,Urban,29
+187,1,49,Male,Secondary,Employed,0,Education,Maharashtra,Urban,29
+151,1,47,Male,Primary,Employed,10000,Education,Delhi,Urban,3
+161,1,46,Male,Higher Secondary,Casual Laborer,0,Education,West Bengal,Rural,19
+157,5,62,Male,Post-Graduate,Student,15000,Construction,Gujarat,Rural,0
+151,3,46,Male,Higher Secondary,Self-Employed,0,Manufacturing,Gujarat,Rural,14
+111,1,47,Male,Post-Graduate,Student,15000,IT,Karnataka,Rural,0
+138,3,33,Female,Graduate,Casual Laborer,5000,Education,Uttar Pradesh,Rural,11
+101,4,57,Female,Higher Secondary,Employed,5000,None,West Bengal,Urban,31
+102,2,36,Male,Primary,Student,25000,None,Uttar Pradesh,Urban,0
+155,4,35,Male,Primary,Student,25000,Education,Tamil Nadu,Rural,0
+180,4,18,Female,Higher Secondary,Employed,20000,Education,West Bengal,Rural,30
+158,5,31,Female,Primary,Self-Employed,10000,IT,Tamil Nadu,Rural,2
+101,2,64,Male,Graduate,Employed,20000,Education,Karnataka,Urban,9
+101,4,19,Male,Illiterate,Student,15000,IT,Maharashtra,Rural,0
+191,4,45,Male,Graduate,Self-Employed,20000,None,Gujarat,Rural,31
+153,2,47,Male,Post-Graduate,Self-Employed,0,Education,Karnataka,Rural,34
+186,2,55,Female,Graduate,Employed,15000,Construction,Gujarat,Urban,15
+195,4,21,Male,Post-Graduate,Student,25000,Construction,Maharashtra,Rural,0
+196,2,18,Male,Primary,Casual Laborer,5000,None,Tamil Nadu,Urban,36
+100,4,25,Male,Illiterate,Student,25000,IT,Maharashtra,Urban,0
+118,4,46,Male,Primary,Unemployed,10000,Construction,Gujarat,Urban,0
+101,5,56,Female,Secondary,Casual Laborer,15000,IT,Gujarat,Urban,37
+152,1,20,Female,Primary,Self-Employed,15000,Construction,Uttar Pradesh,Urban,39
+143,4,49,Female,Post-Graduate,Casual Laborer,0,Construction,Delhi,Urban,32
+189,3,27,Male,Primary,Self-Employed,10000,IT,Karnataka,Rural,17
+131,1,27,Male,Primary,Self-Employed,5000,Manufacturing,West Bengal,Rural,35
+169,1,36,Female,Illiterate,Casual Laborer,30000,Construction,Gujarat,Rural,37
+131,1,63,Male,Primary,Self-Employed,15000,Education,Karnataka,Urban,19
+167,5,51,Male,Illiterate,Self-Employed,15000,None,Uttar Pradesh,Rural,29
+154,4,50,Female,Higher Secondary,Unemployed,0,Manufacturing,Maharashtra,Urban,0
+174,5,40,Female,Secondary,Student,20000,IT,Uttar Pradesh,Urban,0
+155,4,45,Female,Illiterate,Student,35000,Manufacturing,Bihar,Urban,0
+116,5,49,Female,Post-Graduate,Unemployed,5000,Agriculture,Bihar,Rural,0
+137,5,24,Male,Higher Secondary,Casual Laborer,25000,Agriculture,West Bengal,Urban,6
+123,3,46,Male,Illiterate,Employed,10000,Construction,Uttar Pradesh,Urban,29
+168,5,25,Female,Illiterate,Employed,15000,Construction,Tamil Nadu,Rural,17
+197,2,18,Male,Secondary,Employed,15000,Education,West Bengal,Rural,16
+169,3,20,Female,Post-Graduate,Unemployed,25000,None,Tamil Nadu,Urban,0
+185,5,41,Female,Graduate,Unemployed,5000,Manufacturing,West Bengal,Urban,0
+110,1,40,Male,Graduate,Self-Employed,35000,Agriculture,Bihar,Rural,3
+115,2,25,Female,Illiterate,Employed,20000,Construction,West Bengal,Rural,21
+196,2,64,Male,Primary,Casual Laborer,15000,None,Bihar,Rural,26
+172,2,54,Male,Post-Graduate,Casual Laborer,35000,Manufacturing,Gujarat,Urban,36
+158,3,20,Male,Higher Secondary,Employed,5000,Construction,Maharashtra,Rural,37
+169,5,50,Male,Primary,Employed,25000,Construction,Tamil Nadu,Rural,22
+179,5,45,Female,Primary,Employed,0,Agriculture,Uttar Pradesh,Rural,12
+192,1,64,Male,Post-Graduate,Unemployed,20000,Agriculture,Gujarat,Urban,0
+102,1,25,Female,Illiterate,Unemployed,10000,Construction,Gujarat,Rural,0
+119,2,51,Female,Illiterate,Unemployed,15000,IT,West Bengal,Rural,0
+158,1,52,Female,Illiterate,Student,5000,Construction,Bihar,Rural,0
+135,3,49,Female,Illiterate,Casual Laborer,0,None,Karnataka,Rural,2
+118,5,41,Male,Graduate,Casual Laborer,10000,Construction,Tamil Nadu,Rural,30
+189,2,31,Male,Illiterate,Self-Employed,30000,Education,Gujarat,Urban,30
+166,1,49,Female,Graduate,Unemployed,5000,Education,West Bengal,Urban,0
+118,3,63,Female,Graduate,Student,5000,Education,Delhi,Urban,0
+119,3,60,Male,Illiterate,Student,10000,IT,Maharashtra,Rural,0
+195,1,33,Female,Secondary,Casual Laborer,0,IT,Maharashtra,Urban,15
+170,5,21,Male,Higher Secondary,Unemployed,30000,Construction,Karnataka,Urban,0
+151,1,54,Female,Primary,Self-Employed,35000,Education,Bihar,Urban,17
+132,2,38,Male,Graduate,Unemployed,35000,IT,West Bengal,Rural,0
+139,1,31,Female,Post-Graduate,Employed,25000,Agriculture,Tamil Nadu,Rural,2
+138,3,48,Female,Post-Graduate,Unemployed,0,Construction,Bihar,Urban,0
+181,1,35,Male,Higher Secondary,Employed,20000,None,Maharashtra,Urban,26
+100,5,24,Female,Post-Graduate,Employed,15000,Manufacturing,Bihar,Rural,23
+110,4,27,Female,Secondary,Self-Employed,10000,Construction,Maharashtra,Rural,18
+191,1,24,Male,Post-Graduate,Casual Laborer,25000,Manufacturing,Bihar,Urban,32
+156,5,50,Female,Primary,Unemployed,30000,Education,Karnataka,Rural,0
+188,5,40,Male,Primary,Employed,10000,Manufacturing,Uttar Pradesh,Urban,3
+149,3,38,Male,Graduate,Unemployed,10000,Education,Karnataka,Rural,0
+122,5,36,Female,Illiterate,Casual Laborer,0,Agriculture,Karnataka,Urban,3
+130,5,36,Female,Secondary,Casual Laborer,15000,Manufacturing,Uttar Pradesh,Urban,30
+193,5,53,Female,Graduate,Student,20000,Construction,Uttar Pradesh,Rural,0
+141,5,46,Female,Secondary,Casual Laborer,35000,Education,Gujarat,Urban,30
+198,2,35,Female,Illiterate,Self-Employed,5000,Construction,Gujarat,Urban,32
+106,2,19,Female,Post-Graduate,Employed,5000,IT,West Bengal,Urban,28
+115,3,18,Female,Post-Graduate,Student,10000,Education,Tamil Nadu,Rural,0
+189,1,64,Male,Illiterate,Self-Employed,35000,Manufacturing,Tamil Nadu,Rural,13
+159,5,22,Female,Graduate,Unemployed,35000,Education,West Bengal,Rural,0
+101,1,37,Male,Illiterate,Employed,15000,Construction,Karnataka,Urban,36
+100,1,28,Female,Higher Secondary,Casual Laborer,30000,Agriculture,Karnataka,Rural,7
+147,3,59,Female,Primary,Employed,30000,Education,Maharashtra,Urban,22
+111,5,19,Male,Graduate,Unemployed,25000,Manufacturing,Maharashtra,Urban,0
+168,5,20,Female,Secondary,Student,0,IT,Tamil Nadu,Rural,0
+136,4,40,Female,Higher Secondary,Student,15000,None,West Bengal,Rural,0
+131,1,29,Male,Graduate,Student,15000,Agriculture,Delhi,Urban,0
+108,1,37,Female,Illiterate,Casual Laborer,0,IT,Gujarat,Urban,4
+198,2,22,Female,Illiterate,Self-Employed,35000,Education,Delhi,Rural,32
+118,4,54,Female,Illiterate,Self-Employed,30000,Construction,West Bengal,Rural,23
+147,2,55,Male,Illiterate,Employed,30000,Construction,Maharashtra,Rural,6
+179,2,47,Female,Secondary,Casual Laborer,35000,Manufacturing,Tamil Nadu,Urban,24
+102,2,26,Female,Higher Secondary,Student,30000,Construction,Tamil Nadu,Urban,0
+119,3,51,Female,Post-Graduate,Student,10000,Agriculture,Maharashtra,Urban,0
+123,3,61,Female,Primary,Unemployed,15000,Construction,Delhi,Urban,0
+153,2,52,Male,Secondary,Unemployed,5000,Manufacturing,Bihar,Urban,0
+132,4,39,Male,Secondary,Student,0,None,Bihar,Rural,0
+123,1,61,Female,Post-Graduate,Student,30000,Education,Maharashtra,Rural,0
+174,4,41,Female,Post-Graduate,Casual Laborer,25000,Education,Bihar,Urban,8
+171,5,34,Male,Primary,Self-Employed,30000,Construction,Uttar Pradesh,Urban,1
+135,3,27,Male,Primary,Unemployed,30000,IT,West Bengal,Rural,0
+137,1,47,Female,Post-Graduate,Self-Employed,20000,Education,West Bengal,Rural,22
+183,1,63,Male,Illiterate,Casual Laborer,10000,None,Maharashtra,Rural,6
+198,5,40,Female,Secondary,Student,0,Construction,Karnataka,Rural,0
+188,5,49,Male,Graduate,Self-Employed,20000,Manufacturing,Gujarat,Urban,32
+198,2,34,Male,Primary,Student,20000,None,Delhi,Rural,0
+124,3,34,Male,Primary,Student,25000,Construction,Maharashtra,Urban,0
+192,3,31,Male,Post-Graduate,Employed,15000,None,Bihar,Rural,5
+117,4,26,Female,Higher Secondary,Self-Employed,25000,Education,Delhi,Rural,6
+181,2,57,Male,Graduate,Self-Employed,15000,Manufacturing,Karnataka,Rural,25
+165,2,19,Male,Graduate,Student,15000,Construction,Bihar,Urban,0
+153,2,62,Female,Primary,Casual Laborer,0,Agriculture,Tamil Nadu,Urban,7
+134,2,42,Male,Illiterate,Employed,30000,Manufacturing,Gujarat,Rural,13
+179,3,56,Male,Higher Secondary,Student,0,Agriculture,Uttar Pradesh,Urban,0
+160,3,26,Female,Graduate,Unemployed,10000,None,Bihar,Urban,0
+140,2,39,Male,Primary,Unemployed,15000,IT,Uttar Pradesh,Rural,0
+199,4,60,Female,Graduate,Employed,20000,Manufacturing,Delhi,Rural,8
+132,1,63,Female,Higher Secondary,Casual Laborer,30000,None,Uttar Pradesh,Urban,11
+167,1,21,Female,Higher Secondary,Student,5000,Agriculture,Delhi,Urban,0
+132,4,43,Female,Secondary,Self-Employed,10000,Education,Delhi,Urban,38
+113,2,46,Male,Post-Graduate,Employed,0,Education,Delhi,Rural,27
+120,3,62,Female,Post-Graduate,Casual Laborer,25000,IT,Delhi,Rural,20
+147,1,51,Male,Primary,Self-Employed,10000,Manufacturing,Delhi,Urban,12
+119,5,40,Male,Higher Secondary,Unemployed,10000,Manufacturing,Bihar,Rural,0
+107,5,54,Male,Secondary,Unemployed,30000,Manufacturing,Delhi,Rural,0
+106,4,28,Male,Secondary,Self-Employed,10000,None,Bihar,Urban,32
+166,2,23,Male,Graduate,Employed,10000,IT,Delhi,Urban,10
+116,1,35,Male,Graduate,Unemployed,5000,Manufacturing,Uttar Pradesh,Rural,0
+132,2,38,Male,Secondary,Student,35000,None,Tamil Nadu,Rural,0
+147,1,59,Male,Graduate,Self-Employed,25000,Education,Delhi,Urban,35
+175,4,53,Male,Higher Secondary,Self-Employed,25000,Agriculture,Karnataka,Rural,31
+158,4,58,Male,Illiterate,Unemployed,25000,None,Delhi,Rural,0
+185,5,55,Female,Higher Secondary,Employed,15000,Education,Delhi,Urban,16
+121,2,51,Female,Secondary,Student,20000,Education,Uttar Pradesh,Urban,0
+129,5,34,Female,Secondary,Employed,35000,Agriculture,Gujarat,Rural,35
+137,2,54,Male,Higher Secondary,Casual Laborer,25000,Education,West Bengal,Rural,11
+150,5,42,Female,Graduate,Casual Laborer,10000,IT,Uttar Pradesh,Rural,21
+153,3,55,Female,Graduate,Unemployed,10000,Agriculture,Karnataka,Urban,0
+107,3,29,Female,Post-Graduate,Unemployed,25000,Education,West Bengal,Rural,0
+126,3,40,Male,Secondary,Unemployed,30000,Construction,Maharashtra,Rural,0
+126,3,59,Male,Primary,Casual Laborer,25000,None,Maharashtra,Urban,22
+197,1,39,Male,Post-Graduate,Employed,10000,Education,Gujarat,Urban,38
+120,3,38,Male,Graduate,Employed,15000,IT,Karnataka,Rural,31
+129,4,44,Female,Higher Secondary,Unemployed,0,Manufacturing,Uttar Pradesh,Urban,0
+196,4,48,Female,Graduate,Student,0,Education,Bihar,Urban,0
+127,1,23,Female,Higher Secondary,Employed,35000,Manufacturing,Karnataka,Rural,32
+163,3,44,Female,Post-Graduate,Casual Laborer,35000,Construction,Tamil Nadu,Urban,36
+196,3,57,Male,Secondary,Self-Employed,25000,Education,West Bengal,Urban,32
+168,3,51,Male,Graduate,Self-Employed,5000,Agriculture,West Bengal,Rural,15
+160,5,29,Male,Higher Secondary,Self-Employed,25000,Manufacturing,Delhi,Urban,35
+147,2,62,Female,Secondary,Student,30000,Construction,Maharashtra,Rural,0
+118,5,24,Male,Primary,Unemployed,25000,Agriculture,Gujarat,Rural,0
+103,2,27,Male,Higher Secondary,Casual Laborer,35000,Agriculture,West Bengal,Urban,5
+134,3,62,Female,Post-Graduate,Student,0,Agriculture,Karnataka,Urban,0
+163,3,34,Female,Primary,Casual Laborer,10000,Agriculture,West Bengal,Urban,10
+148,5,43,Male,Primary,Casual Laborer,25000,Education,Gujarat,Rural,19
+116,5,38,Male,Illiterate,Unemployed,10000,None,Gujarat,Urban,0
+143,2,45,Male,Graduate,Self-Employed,10000,Education,Gujarat,Rural,4
+191,4,63,Male,Higher Secondary,Unemployed,5000,Education,Karnataka,Urban,0
+129,2,19,Male,Primary,Student,10000,Construction,Bihar,Urban,0
+192,5,60,Male,Illiterate,Student,0,Construction,Delhi,Urban,0
+145,5,18,Female,Post-Graduate,Student,15000,None,Maharashtra,Rural,0
+105,1,53,Female,Secondary,Unemployed,15000,Construction,West Bengal,Urban,0
+198,5,43,Female,Higher Secondary,Casual Laborer,20000,IT,Karnataka,Urban,20
+136,1,46,Male,Primary,Casual Laborer,30000,None,Uttar Pradesh,Rural,19
+123,4,38,Female,Graduate,Employed,25000,Construction,Maharashtra,Rural,23
+192,2,28,Male,Illiterate,Student,30000,None,Bihar,Urban,0
+145,2,57,Male,Primary,Casual Laborer,0,Education,Karnataka,Urban,11
+152,1,28,Female,Graduate,Employed,10000,Education,Tamil Nadu,Urban,34
+194,2,53,Male,Primary,Casual Laborer,15000,None,Tamil Nadu,Rural,28
+198,5,56,Male,Higher Secondary,Student,30000,IT,Delhi,Rural,0
+159,3,57,Female,Higher Secondary,Self-Employed,0,IT,Delhi,Rural,5
+196,1,52,Female,Higher Secondary,Student,15000,None,Bihar,Rural,0
+162,2,51,Female,Post-Graduate,Unemployed,10000,Construction,Bihar,Urban,0
+184,1,64,Male,Post-Graduate,Casual Laborer,30000,Manufacturing,Delhi,Rural,4
+131,1,41,Female,Illiterate,Casual Laborer,15000,IT,West Bengal,Rural,20
+186,3,39,Female,Higher Secondary,Unemployed,25000,Agriculture,West Bengal,Rural,0
+132,5,22,Male,Graduate,Unemployed,35000,Education,Karnataka,Urban,0
+166,1,50,Female,Primary,Self-Employed,25000,None,Uttar Pradesh,Urban,14
+117,2,53,Female,Secondary,Casual Laborer,20000,Agriculture,Karnataka,Rural,11
+124,4,64,Female,Graduate,Casual Laborer,20000,None,Uttar Pradesh,Rural,32
+194,1,37,Male,Post-Graduate,Self-Employed,15000,Education,Bihar,Urban,11
+153,1,36,Male,Post-Graduate,Employed,35000,Education,Maharashtra,Urban,18
+157,3,52,Male,Graduate,Self-Employed,0,IT,Karnataka,Urban,27
+166,5,60,Male,Post-Graduate,Student,25000,IT,Karnataka,Urban,0
+145,4,34,Female,Higher Secondary,Casual Laborer,0,Agriculture,Uttar Pradesh,Urban,23
+123,2,62,Male,Illiterate,Unemployed,35000,None,Gujarat,Urban,0
+131,4,60,Male,Primary,Student,0,Education,Bihar,Urban,0
+146,2,51,Female,Illiterate,Casual Laborer,35000,Agriculture,Bihar,Urban,5
+185,5,26,Female,Primary,Self-Employed,15000,Manufacturing,Tamil Nadu,Rural,23
+122,2,43,Female,Primary,Student,0,Agriculture,Gujarat,Rural,0
+165,3,19,Male,Illiterate,Casual Laborer,25000,Construction,Uttar Pradesh,Rural,10
+126,3,26,Male,Graduate,Employed,10000,Agriculture,Bihar,Rural,22
+101,3,26,Male,Primary,Employed,20000,Construction,Gujarat,Rural,19
+189,3,57,Female,Illiterate,Unemployed,10000,Construction,Delhi,Rural,0
+116,4,34,Female,Primary,Casual Laborer,0,Construction,Gujarat,Urban,7
+132,5,18,Male,Secondary,Employed,10000,Manufacturing,West Bengal,Urban,4
+108,2,42,Female,Graduate,Self-Employed,25000,Agriculture,Tamil Nadu,Rural,1
+142,2,60,Female,Higher Secondary,Casual Laborer,25000,Agriculture,Delhi,Rural,15
+147,3,57,Female,Primary,Self-Employed,0,Manufacturing,Maharashtra,Urban,12
+138,3,59,Male,Secondary,Self-Employed,15000,Education,Karnataka,Urban,22
+192,1,42,Female,Higher Secondary,Employed,10000,IT,Tamil Nadu,Urban,22
+141,5,56,Female,Higher Secondary,Casual Laborer,15000,Agriculture,Maharashtra,Rural,17
+125,4,52,Male,Primary,Student,15000,IT,Karnataka,Urban,0
+198,2,20,Male,Illiterate,Employed,35000,None,West Bengal,Rural,14
+149,1,54,Female,Primary,Employed,5000,None,Gujarat,Rural,20
+124,1,61,Female,Secondary,Casual Laborer,0,Manufacturing,Bihar,Urban,33
+123,2,61,Male,Higher Secondary,Casual Laborer,20000,None,Delhi,Urban,15
+112,4,47,Male,Primary,Self-Employed,25000,None,Uttar Pradesh,Rural,12
+159,1,55,Female,Illiterate,Casual Laborer,25000,Education,Delhi,Urban,20
+106,1,51,Female,Primary,Self-Employed,0,Education,West Bengal,Urban,30
+156,5,29,Female,Graduate,Employed,35000,Education,Maharashtra,Rural,38
+135,4,36,Female,Illiterate,Unemployed,30000,None,Uttar Pradesh,Urban,0
+144,1,54,Male,Secondary,Student,30000,Manufacturing,Bihar,Rural,0
+119,4,61,Female,Higher Secondary,Employed,30000,Construction,West Bengal,Rural,26
+164,2,34,Female,Primary,Casual Laborer,35000,Construction,Uttar Pradesh,Urban,30
+107,3,27,Male,Illiterate,Student,20000,IT,West Bengal,Rural,0
+115,1,64,Female,Graduate,Unemployed,25000,Construction,Gujarat,Rural,0
+113,5,29,Male,Illiterate,Unemployed,0,Construction,West Bengal,Urban,0
+175,2,33,Female,Post-Graduate,Self-Employed,35000,Education,Bihar,Urban,37
+186,4,41,Female,Graduate,Student,25000,Education,Tamil Nadu,Urban,0
+114,2,36,Male,Secondary,Self-Employed,15000,None,Karnataka,Rural,2
+191,1,25,Male,Higher Secondary,Employed,10000,IT,Uttar Pradesh,Rural,36
+197,4,48,Female,Secondary,Student,10000,Agriculture,Gujarat,Urban,0
+165,3,38,Female,Primary,Employed,35000,IT,Bihar,Rural,11
+131,2,34,Female,Illiterate,Self-Employed,25000,IT,West Bengal,Urban,8
+186,1,40,Male,Post-Graduate,Student,5000,Manufacturing,Gujarat,Urban,0
+162,5,54,Female,Graduate,Self-Employed,20000,None,Bihar,Rural,20
+185,4,33,Male,Graduate,Student,30000,Manufacturing,Tamil Nadu,Urban,0
+150,2,23,Male,Illiterate,Self-Employed,20000,IT,Gujarat,Rural,29
+124,2,25,Female,Post-Graduate,Unemployed,20000,IT,Gujarat,Rural,0
+157,3,42,Male,Illiterate,Self-Employed,35000,IT,Karnataka,Urban,30
+162,3,35,Female,Primary,Unemployed,15000,Construction,Delhi,Rural,0
+161,5,42,Female,Secondary,Self-Employed,20000,Manufacturing,Uttar Pradesh,Urban,20
+121,5,29,Female,Graduate,Student,10000,IT,Karnataka,Rural,0
+157,1,32,Female,Primary,Student,15000,Education,Maharashtra,Rural,0
+157,1,43,Female,Secondary,Student,0,None,Uttar Pradesh,Rural,0
+185,5,58,Male,Primary,Casual Laborer,20000,None,Karnataka,Urban,27
+148,5,62,Male,Post-Graduate,Employed,20000,Education,West Bengal,Rural,23
+151,4,43,Female,Graduate,Student,0,None,Uttar Pradesh,Urban,0
+141,3,64,Female,Illiterate,Unemployed,20000,Construction,Uttar Pradesh,Rural,0
+169,1,49,Male,Illiterate,Student,0,Construction,Bihar,Rural,0
+114,3,27,Male,Secondary,Casual Laborer,15000,Agriculture,West Bengal,Urban,20
+153,3,33,Male,Higher Secondary,Unemployed,10000,Agriculture,Maharashtra,Urban,0
+159,5,24,Male,Post-Graduate,Casual Laborer,0,Agriculture,Delhi,Urban,17
+196,4,34,Female,Secondary,Unemployed,5000,None,Gujarat,Urban,0
+107,2,40,Female,Higher Secondary,Self-Employed,35000,Construction,Tamil Nadu,Urban,8
+152,4,43,Male,Primary,Employed,35000,Construction,Karnataka,Rural,15
+159,4,38,Female,Post-Graduate,Employed,0,Construction,Bihar,Rural,31
+104,3,39,Male,Primary,Casual Laborer,35000,Education,Karnataka,Urban,30
+167,4,24,Female,Graduate,Employed,20000,Construction,Maharashtra,Rural,20
+105,1,31,Male,Post-Graduate,Casual Laborer,30000,Education,Gujarat,Rural,39
+195,3,32,Female,Higher Secondary,Casual Laborer,30000,Agriculture,Maharashtra,Rural,12
+193,1,24,Male,Graduate,Casual Laborer,35000,Agriculture,Uttar Pradesh,Urban,17
+146,2,26,Male,Illiterate,Employed,15000,None,Tamil Nadu,Rural,30
+198,3,25,Female,Higher Secondary,Casual Laborer,25000,Agriculture,Maharashtra,Rural,29
+154,2,40,Male,Secondary,Employed,15000,None,Karnataka,Rural,19
+139,3,46,Female,Illiterate,Casual Laborer,25000,IT,West Bengal,Urban,11
+151,5,35,Female,Illiterate,Student,30000,IT,West Bengal,Rural,0
+115,4,48,Male,Secondary,Casual Laborer,30000,Manufacturing,Uttar Pradesh,Rural,7
+112,5,47,Female,Post-Graduate,Unemployed,0,None,Delhi,Urban,0
+129,2,56,Female,Illiterate,Casual Laborer,10000,Manufacturing,Karnataka,Urban,20
+118,4,52,Female,Higher Secondary,Self-Employed,5000,Manufacturing,Karnataka,Rural,38
+116,3,35,Female,Graduate,Casual Laborer,15000,IT,Maharashtra,Rural,24
+162,4,59,Female,Illiterate,Unemployed,20000,None,Tamil Nadu,Urban,0
+118,1,56,Male,Higher Secondary,Unemployed,25000,IT,Karnataka,Urban,0
+191,4,34,Female,Primary,Employed,35000,Manufacturing,Bihar,Urban,15
+157,1,31,Female,Higher Secondary,Student,20000,None,Delhi,Urban,0
+154,4,48,Female,Graduate,Casual Laborer,10000,Manufacturing,Maharashtra,Urban,20
+189,1,41,Female,Higher Secondary,Employed,25000,Construction,Bihar,Urban,3
+189,2,52,Female,Secondary,Student,15000,None,Uttar Pradesh,Urban,0
+161,5,61,Male,Graduate,Casual Laborer,0,None,West Bengal,Rural,8
+122,3,62,Female,Post-Graduate,Self-Employed,20000,Manufacturing,Uttar Pradesh,Urban,23
+108,4,51,Male,Primary,Casual Laborer,10000,Construction,West Bengal,Urban,11
+111,5,20,Male,Secondary,Unemployed,15000,Education,Uttar Pradesh,Rural,0
+100,3,54,Male,Post-Graduate,Unemployed,30000,IT,Karnataka,Urban,0
+157,3,60,Male,Higher Secondary,Self-Employed,30000,Manufacturing,Bihar,Urban,30
+100,1,57,Female,Graduate,Employed,15000,None,West Bengal,Rural,10
+133,2,43,Male,Primary,Student,15000,IT,Maharashtra,Urban,0
+195,2,40,Male,Secondary,Casual Laborer,15000,IT,Bihar,Rural,28
+147,5,61,Female,Post-Graduate,Unemployed,25000,IT,Maharashtra,Rural,0
+188,2,56,Female,Post-Graduate,Employed,15000,Education,Bihar,Rural,13
+100,4,32,Female,Primary,Self-Employed,20000,Agriculture,Bihar,Rural,32
+115,2,21,Male,Higher Secondary,Unemployed,10000,Manufacturing,Uttar Pradesh,Urban,0
+160,5,46,Female,Primary,Self-Employed,25000,Agriculture,West Bengal,Rural,37
+163,2,39,Female,Post-Graduate,Casual Laborer,15000,Agriculture,West Bengal,Rural,26
+162,4,42,Male,Illiterate,Student,5000,Agriculture,Tamil Nadu,Urban,0
+168,1,30,Female,Secondary,Unemployed,35000,IT,Bihar,Rural,0
+121,5,35,Female,Primary,Unemployed,5000,Construction,Karnataka,Rural,0
+192,1,50,Female,Post-Graduate,Casual Laborer,10000,IT,Karnataka,Rural,18
+166,1,33,Female,Higher Secondary,Employed,30000,IT,Maharashtra,Rural,38

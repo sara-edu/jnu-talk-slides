@@ -1,0 +1,389 @@
+---
+title: "Reproducible Research Made Easy"
+subtitle: "A Live Coding Demo for Social Scientists"
+pagetitle: JNU Talk
+author: "Dr. Ajay Kumar Koli | Oct 4, 2024 | JNU"
+format: 
+  revealjs:
+    slide-number: true
+    incremental: true
+    controls: true
+    logo: images/logo-sara.png
+    theme: [default, style.scss]
+    auto-play-media: true
+title-slide-attributes:
+  data-background-image: "https://images.unsplash.com/photo-1586809764311-090bc6068916?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  data-background-size: cover
+  data-background-opacity: "0.5"
+chalkboard: true  
+---
+
+## 
+
+<br>
+<br>
+
+:::: {.columns}
+
+::: {.column width="40%"}
+<br>
+
+![](images/ajay.png)
+:::
+
+::: {.column width="60%"}
+
+<br>
+<br>
+
+Dr. Ajay Kumar Koli
+
+Co-Founder & Executive Director
+
+SARA Institute of Data Science, Sonipat.
+
+[[{{< fa play >}}]{.theme-silver}](https://koliajay.netlify.app/) &nbsp; [[{{< fa brands github >}}]{.theme-silver}](https://github.com/sara-edu) &nbsp; [[{{< fa brands twitter >}}]{.theme-silver}](https://x.com/ajay_kolii) &nbsp; [[{{< fa brands facebook >}}]{.theme-silver}](https://www.facebook.com/profile.php?id=100024575268740) &nbsp; [[{{< fa brands youtube >}}]{.theme-silver}](https://www.youtube.com/@SARADataScience) &nbsp; [[{{< fa brands linkedin >}}]{.theme-silver}](https://www.linkedin.com/in/ajay-kumar-koli/) &nbsp; [[{{< fa brands whatsapp >}}]{.theme-silver}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+
+```{=html}
+<a class="github-button" href="https://github.com/sara-edu/slides-jnu-talk.git" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this slide deck on Github">Star this Slide Deck on Github</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+```
+
+:::
+
+::::
+
+## Reproducible Research
+
+<br>
+<br>
+
+> "The goal of reproducible research is to tie specific instructions to data analysis and experimental data so that scholarship can be recreated, understood, and verified." 
+
+::: aside
+Source: John Blischak, Alison Hill, Ben Marwick, Daniel Sjoberg, Will Landau (2024). CRAN Task View: Reproducible Research. Version 2024-06-14. URL [https://CRAN.R-project.org/view=ReproducibleResearch.
+](https://cran.r-project.org/web/views/ReproducibleResearch.html)
+:::
+
+## Reproducible Research
+
+<br>
+<br>
+
+> "Research is reproducible when others can reproduce the results of a scientific study given only the original data, code, and documentation"
+
+::: aside
+Source: Alston, J. M., & Rick, J. A. (2021). A Beginner's Guide to Conducting Reproducible Research. The Bulletin of the Ecological Society of America, 102(2), e01801. [https://doi.org/10.1002/bes2.1801](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1801)
+:::
+
+## Reproducible Research
+
+![](images/sci1.png){width="30%"}
+![](images/sci2.png)
+![](images/sci3.png){width="50%"}
+
+## Reproducible Research Needs:
+
+<br>
+
+@. **`Data`**: people can access your original data.
+
+@. **`Code`**: others can read, learn & replicate results.
+
+@. **`Documentation`**: complete information about how to conduct the study.
+
+## Reproducible Research
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="40%"}
+**`Benefits:`**
+
+- Transparency, 
+
+- Collaboration, and 
+
+- Long-term credibility
+:::
+
+::: {.column width="60%"}
+**`Challenges:`**
+
+- Data management issues,
+    
+- Lack of coding knowledge,
+    
+- Difficulty in sharing and documenting work
+:::
+
+::::
+
+## Social Sciences + Data Science 
+
+::: {.nonincremental}
+
+- **Harvard University** – Program: Data Science for Social Good Fellowship, [IQSS](https://www.iq.harvard.edu/).
+
+- **University of California** - Program: Computational Social Science Training Program, [BIDS](https://bids.berkeley.edu/computational-social-science-training-program).
+
+- **University of Chicago** – Program: Data Science for Social Good, [DSSG](https://www.dssgfellowship.org/).
+
+- **Stanford University** – Program: Social Data Science Research Initiatives, [HAI](https://hai.stanford.edu/).
+
+- **University of Edinburgh** – Program: MSc in Social Data Science, [School of Social and Political Science](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site%2FbySchool&school=14).
+
+- **University of Oxford** - Program: MSc in Social Data Science, [Oxford Internet Institute](https://www.ox.ac.uk/admissions/graduate/courses/msc-social-data-science)
+
+:::
+
+# TOOLS {background-color=black background-image=images/desktop-files.jpeg background-size=50% background-position=right}
+
+
+## R Programming Language
+
+<br>
+<br>
+
+:::: {.columns}
+::: {.column width="25%"}
+
+![](images/rlogo.png)
+
+:::
+
+::: {.column width="75%"}
+
+<br>
+
+> “R is a `free` software environment for statistical computing and graphics.”
+
+:::
+::::
+
+::: aside
+Download from here: <https://www.r-project.org/>
+:::
+
+
+## RStudio IDE
+
+<br>
+<br>
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+<br>
+
+![](images/logo_rstd.png)
+:::
+
+::: {.column width="70%"}
+- RStudio is an integrated development environment (IDE) for R and Python. 
+
+- It includes a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging, and `workspace` management.
+:::
+
+::::
+
+
+::: aside
+Download RStudio from here: <https://posit.co/products/open-source/rstudio/>
+:::
+
+## Quarto
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/logo_quarto.png){fig-align=center}
+:::
+
+::: {.column width="70%"}
+- "An open-source scientific and technical publishing system"
+
+- Quarto can produce a wide variety of output formats:
+
+::: {.incremental .theme-red}
+  - {{< fa square-check >}} Articles & Reports
+
+  - {{< fa square-check >}} Presentations
+
+  - {{< fa square-check >}} Interactive Docs
+
+  - {{< fa square-check >}} Websites
+
+  - {{< fa square-check >}} Books
+:::
+
+:::
+::::
+
+::: aside
+Source: [Quarto website](https://quarto.org/)
+:::
+
+##
+
+:::: {.columns}   
+
+::: {.column width="50%"}
+
+### ![](https://git-scm.com/images/logo@2x.png){width=35% fig-align=left}
+
+- Version control for tracking changes software.
+
+- Download from [here](https://git-scm.com/) 
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+### {{< fa brands github >}} GitHub 
+
+- GitHub as a collaboration and sharing cloud platform, [more information](https://github.com/)
+
+- Repositories
+
+:::
+
+::::
+
+## Necessary Guidelines:
+
+- Install R, RStudio, Quarto, and Git.
+
+- Best practices in naming and structuring data, scripts, and outputs are:
+
+  -   avoid caps.
+
+  -   avoid space.
+
+  -   use dash (like weight-kg) or underscore (like weight_kg).
+
+  -   if chronology matters then add date (2020-09-05-file-name).
+
+## Generating Reports {background-color=black background-image=images/quarto_workflow.png background-size=contain .centering}
+
+## Manual Updates 
+
+![](images/manual-update.svg){width=75% fig-align=center}
+
+::: aside
+Source: [Jadey Ryan](https://jadeyryan.quarto.pub/slc-rug-quarto/#/manual-updates)
+:::
+
+## Updates with Quarto
+
+<br>
+
+![](images/updates-with-quarto.svg){fig-align=center}
+
+::: aside
+Source: [Jadey Ryan](https://jadeyryan.quarto.pub/slc-rug-quarto/#/updates-with-quarto)
+:::
+
+# Live Coding Demo: Quarto Basics {background-color=#003262 .centering}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzg1djNuaHd0YTZnOGl2dGwyeHk0cXZ1aHF2dW52MDl5ZzRmOWhmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Eq49yQGJL835K/giphy.webp)
+
+## Create a GitHub Repo:
+
+- Create a repository and copy the HTTPS link.
+        
+- Uploading the project, tracking changes, and versioning.
+        
+- Creating a README file for easy understanding by collaborators.
+
+![](images/repo.png){fig-align=center}
+
+## Creating a Quarto Document: {background-image=images/render_quarto.png background-position=right background-size=65%}
+
+- Writing text
+
+- Adding images
+
+- Prepare tables
+
+- Writing maths
+
+## Documenting Research:
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="70%"}
+- Integrating narrative with code outputs (e.g., regression results, plots)
+        
+- Adding citations, references, and inline notes
+
+- Compiling Quarto into HTML, PDF, or Word reports for easy sharing
+:::
+
+::: {.column width="30%"}
+
+<video data-autoplay src="https://quarto.org/images/hero_animation.mp4"></video>
+
+:::
+
+::::
+
+## Best Practices for Reproducibility: {background-image=images/comment.jpeg background-size=contain background-position=right background-color=#008B8B}
+
+<br>
+<br>
+<br>
+
+- Clear documentation and commenting
+        
+- Organizing code, data, and outputs
+
+- Using version control from the start
+
+## Common Pitfalls and How to Avoid Them {background-image=https://media.licdn.com/dms/image/v2/D4D22AQH6AycfxFjhnQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1726768967725?e=1730937600&v=beta&t=RntWiLSdSUDfdn1X1K5LCVfmW4A7YMxyfPxZjI8s9po background-size=40% background-position=right}
+
+<br>
+
+- Do not love a tool.
+
+- Do not try to memorize the codes.
+
+- Data science has a deep learning curve.
+
+::: aside
+Image source: [LinkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7242593994268921856/)
+:::
+    
+# Q&A<br>Session {background-image=https://media.licdn.com/dms/image/v2/D5622AQF3AQ1JK0AJVQ/feedshare-shrink_800/feedshare-shrink_800/0/1727191767611?e=1730937600&v=beta&t=WAMFHnjGBfIjaznME0G6zwiCtFyWpUH1zH7qh9QGGN8 background-size=contain background-position=right}
+
+<br>
+<br>
+<br>
+
+::: aside
+Image source: [LinkedIN](https://www.linkedin.com/feed/update/urn:li:activity:7244367345186430976/)
+:::
+
+# {background-image=https://images.unsplash.com/photo-1550451757-43afd21bc356?q=80&w=2920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-size=cover}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+:::
+
+::: {.column width="70%"}
+[Thank You!]{.r-fit-text .theme-cursive .theme-white}
+:::
+
+::::
+
+
+
